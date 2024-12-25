@@ -1,4 +1,4 @@
-<img src="./Logo.png" alt="Web Wizards Logo" height="600" width="100%">
+<img src="./Logo.png" alt="Web Wizards Logo" height="400" width="100%">
 
 # 💫 About Me:
 About Web Wizards ✨🧙‍♂️<br>Welcome to Web Wizards, where code meets creativity and digital dreams come true! 🌐✨ We’re a magical team of tech enthusiasts on a quest to turn your wildest web ideas into something extraordinary. Whether you need a sleek website, a custom app, or a digital overhaul, we’ve got the spellbook and skills to make it happen. 💻🎨<br><br>At Web Wizards, we don’t just build websites – we craft experiences! 🚀 Each project is designed with precision, blending stunning visuals 🎨 with seamless functionality ⚙️, so your site doesn’t just look great, it works like magic on every device. 📱💻 From small startups to big dreams, we help your online presence stand out and shine bright like a diamond 💎.<br><br>Want to make some web magic happen? ✨ Contact us to get started on your next project! We’re ready to turn your vision into a digital masterpiece. 🌟
