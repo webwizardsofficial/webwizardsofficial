@@ -5,6 +5,7 @@ About Web Wizards ✨🧙‍♂️<br>Welcome to Web Wizards, where code meets c
 
 
 ## 🌐 Socials:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+250794413721)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webwizards__official) 
 
 # 💻 Tech Stack:
